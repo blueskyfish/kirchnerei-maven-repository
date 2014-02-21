@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Kirchnerei Encrypt Plugin</name>
+      <prefix>kirchnerei-encrypt</prefix>
+      <artifactId>kirchnerei-encrypt-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Kirchnerei BuildNumber Plugin</name>
+      <prefix>kirchnerei-buildnumber</prefix>
+      <artifactId>kirchnerei-buildnumber-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
