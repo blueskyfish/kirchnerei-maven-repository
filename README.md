@@ -7,8 +7,11 @@ The maven repository for kirchnerei
 
 + Kirchnerei Encrypt Plugin
 + Kirchnerei BuildNumber Plugin
++ Kirchnerei Commons Logging
 
 View on Githup <https://github.com/mulder3/kirchnerei-maven-plugins.git>
+
+View on Github <https://github.com/mulder3/kirchnerei-commons-logging.git>
 
 
 ## Repository
@@ -41,6 +44,8 @@ Edit the `pom.xml`:
 	WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 	See the License for the specific language governing permissions and
 	limitations under the License.
+
+Kirchnerei Commons Logging is using the License from MIT
 
 
 
